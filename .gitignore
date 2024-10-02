@@ -1,0 +1,4 @@
+/node_modules
+/package-lock.json
+/e2e/example-1.js
+/e2e/example-2.js
